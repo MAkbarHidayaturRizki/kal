@@ -6,6 +6,7 @@ title: Eleminasi Gauss
 
 # Soal
 ###  1. Sistem Persamaan Linear
+$$
 \begin{cases} 
 x_1 + x_2 + x_3 + x_4 + x_5 = 15 \\
 2x_1 + 3x_2 + 2x_3 + 2x_4 + 2x_5 = 31 \\
@@ -13,10 +14,11 @@ x_1 + x_2 + x_3 + x_4 + x_5 = 15 \\
 x_1 + x_2 + x_3 + 2x_4 + 2x_5 = 21 \\
 0x_1 + 0x_2 + 0x_3 + 0x_4 + 2x_5 = 4 
 \end{cases}
+$$
 
 
 ### 2. Matriks Augmentasi Awal
-
+$$
 \begin{array}{ccccc|c}
 1 & 1 & 1 & 1 & 1 & 15 \\
 2 & 3 & 2 & 2 & 2 & 31 \\
@@ -24,6 +26,7 @@ x_1 + x_2 + x_3 + 2x_4 + 2x_5 = 21 \\
 1 & 1 & 1 & 2 & 2 & 21 \\
 0 & 0 & 0 & 0 & 2 & 4
 \end{array}
+$$
 
 # Penyelesaian
 
@@ -35,6 +38,7 @@ R_4 = R_4-R_1
 \end{matrix}
 
 #### Hasil :
+$$
 \begin{array}{ccccc|c}
 1 & 1 & 1 & 1 & 1 & 15 \\
 0 & 1 & 0 & 0 & 0 & 1 \\
@@ -42,6 +46,7 @@ R_4 = R_4-R_1
 0 & 0 & 0 & 1 & 1 & 6 \\
 0 & 0 & 0 & 0 & 2 & 4
 \end{array}
+$$
 
 ### 2. Membersihkan Kolom 2 (Bawah Pivot $x_2$)
 #### Operasi :
