@@ -185,3 +185,6 @@ $$
 $$
 ### f. Hasil Akhir
 $$(x_1 = \frac {13}{2}, x_2 = 1, x_3 = \frac {3}{2},x_4 = 4, x_5 = 2 )$$
+
+### h. Uji Coba dengan Sage cell
+![alt text](image.png)
