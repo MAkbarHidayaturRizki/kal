@@ -1,5 +1,5 @@
 ---
-title: Sitem Persamaan Linier
+title: Sistem Persamaan Linier
 
 ---
 

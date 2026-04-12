@@ -2,7 +2,7 @@ git remote add origin https://github.com/MAkbarHidayaturRizki/kal.git# See docs 
 version: 1
 project:
   id: a8b2168d-c4b2-4928-aad7-d5d501f92400
-  # title:
+  title: "M. Akbar Hidayatur Rizki"
   # description:
   # keywords: []
   # authors: []
@@ -12,4 +12,4 @@ site:
   template: book-theme
   options:
   #   favicon: favicon.ico
-     logo: image.png
+  #   logo: site_logo.png
