@@ -1,5 +1,5 @@
 ---
-title: Soal Persamaan Linier
+title: UTS Determinan
 
 ---
 
