@@ -56,6 +56,7 @@ $$M_{11} + 3M_{12} + M_{13} - M_{14}$$
 Minor matriks:
 $$a(ei-fh)-b(di-fg)+c(dh-eg)$$
 Dengan rumus di atas bisa mendapatkan determinan dari minor sub matriks nya.
+
 $$M_{11} = 
 \begin{bmatrix} 
 1 & 1 & 1 \\ 
