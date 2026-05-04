@@ -128,12 +128,7 @@ Titik-titik ini membentuk suatu objek (contohnya persegi).
 
 #### 2. Representasi dalam Bentuk Vektor
 Setiap titik direpresentasikan sebagai vektor:
-$$
-\begin{bmatrix}
-x \\
-y
-\end{bmatrix}
-$$
+$$ \begin{bmatrix} x \\ y \end{bmatrix} $$
 
 #### 3. Matriks Transformasi Refleksi Sumbu Y
 Refleksi terhadap sumbu Y menggunakan matriks:
