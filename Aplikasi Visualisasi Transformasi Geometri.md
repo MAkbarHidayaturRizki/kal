@@ -32,6 +32,7 @@ Contoh:
 <div class="btn">
     <a href="https://drive.google.com/drive/folders/1DyZJn-q5oAMjVEumw_k7sS9CoBQJibNf?usp=sharing" id="download" target="_blank">
         Download Script Aplikasi
+
     </a>
 </div>
 
@@ -114,4 +115,56 @@ Untuk mengetahui seluruh titik titik terbentuk bisa dengan mengclick tombol "Lih
 ![alt text](image-10.png)
 
 
+### Penjelasan Sistem Transformasi di Aplikasinya
 
+Aplikasi ini bekerja menggunakan konsep dari Aljabar Linear, khususnya transformasi geometri.
+
+#### 1. Input Titik (Objek Awal)
+Pengguna memasukkan beberapa titik koordinat:
+<pre><code>P1(x1, y1)
+P2(x2, y2)
+P3(x3, y3)
+P4(x4, y4) </code></pre>
+Titik-titik ini membentuk suatu objek (contohnya persegi).
+
+#### 2. Representasi dalam Bentuk Vektor
+Setiap titik direpresentasikan sebagai vektor:
+$$
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}
+$$
+#### 3. Matriks Transformasi Refleksi Sumbu Y
+Refleksi terhadap sumbu Y menggunakan matriks:
+$$
+\begin{bmatrix}
+-1 & 0\\
+0 & 1
+\end{bmatrix}
+$$
+#### 4. Proses Transformasi (Perkalian Matriks)
+Setiap titik dihitung dengan:
+$$
+\begin{bmatrix}
+x'\\
+y'
+\end{bmatrix} = 
+\begin{bmatrix}
+-1 & 0\\
+0 & 1
+\end{bmatrix} \cdot
+\begin{bmatrix}
+x\\
+y
+\end{bmatrix}
+$$
+Hasilnya:
+<pre><code>x' = -x
+y' = y</pre></code>
+
+#### 5. Hasil Refleksi
+Contoh:
+
+<pre><code>P(3, 2) → P'(-3, 2)
+P(-5, 4) → P'(5, 4)</code></pre>
