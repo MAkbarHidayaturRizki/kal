@@ -28,8 +28,7 @@ Contoh:
 #### 5. Jalankan Program</h2>
 <pre><code>python main.py</code></pre>
 
-### Download Script Aplikasi Visualisasi Transformasi Geometri
-
+### Download Script Aplikasi
 <div class="btn">
     <a href="https://drive.google.com/drive/folders/1DyZJn-q5oAMjVEumw_k7sS9CoBQJibNf?usp=sharing" id="download" target="_blank">
         Download Script Aplikasi
