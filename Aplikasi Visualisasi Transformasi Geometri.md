@@ -32,7 +32,6 @@ Contoh:
 <div class="btn">
     <a href="https://drive.google.com/drive/folders/1DyZJn-q5oAMjVEumw_k7sS9CoBQJibNf?usp=sharing" id="download" target="_blank">
         Download Script Aplikasi
-
     </a>
 </div>
 
@@ -135,31 +134,18 @@ x \\
 y
 \end{bmatrix}
 $$
+
 #### 3. Matriks Transformasi Refleksi Sumbu Y
 Refleksi terhadap sumbu Y menggunakan matriks:
-$$
-\begin{bmatrix}
--1 & 0\\
-0 & 1
-\end{bmatrix}
-$$
+$$ \begin{bmatrix} -1 & 0 \\ 0 & 1 \end{bmatrix} $$
+
 #### 4. Proses Transformasi (Perkalian Matriks)
 Setiap titik dihitung dengan:
-$$
-\begin{bmatrix}
-x'\\
-y'
-\end{bmatrix} = 
-\begin{bmatrix}
--1 & 0\\
-0 & 1
-\end{bmatrix} \cdot
-\begin{bmatrix}
-x\\
-y
-\end{bmatrix}
-$$
+
+$$ \begin{bmatrix} x' \\ y' \end{bmatrix} = \begin{bmatrix} -1 & 0 \\ 0 & 1 \end{bmatrix} \cdot \begin{bmatrix} x \\ y \end{bmatrix} $$
+
 Hasilnya:
+
 <pre><code>x' = -x
 y' = y</pre></code>
 
