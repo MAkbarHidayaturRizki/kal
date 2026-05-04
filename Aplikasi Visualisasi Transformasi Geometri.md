@@ -28,6 +28,8 @@ Contoh:
 #### 5. Jalankan Program</h2>
 <pre><code>python main.py</code></pre>
 
+### Download Script Aplikasi Visualisasi Transformasi Geometri
+
 <div class="btn">
     <a href="https://drive.google.com/drive/folders/1DyZJn-q5oAMjVEumw_k7sS9CoBQJibNf?usp=sharing" id="download" target="_blank">
         Download Script Aplikasi
@@ -81,7 +83,7 @@ hr {
 }
 </style>
 
-### 1. Tampilan Awal Aplikasi: 
+### Tampilan Awal Aplikasi: 
 Aplikasinya akan menampilkan beberapa tombol dan tabel tabel kartesius yang kosong, untuk memulai aplikasinya bisa menambahkan titik titik secara manual di kolom input di kiri atau bisa memencet 2 opsi contoh objek dari bawaan aplikasinya dan setelah memencet akan menampilkan objek pertama di bagian kanan/kiri dan setelah itu selanjutnya bisa memencet tombol "Lakukan Refleksi Y" untuk menampilkan hasil refleksi objek tadi terhadap sumbu Y.
 Dan objek nya juga bisa di pindahkan secara manual dengan cara memasukkan titik satu persatu atau bisa dengan cara memencet tombol geser di barisan tombol tombol maka objek nya akan bergerak dan setelah itu bisa mengupdate objek hasil refleksinya dengan memencet "Lakukan Refleksi Y" atau "Update Refleksi Y" agar objek hasil refleksi nya mengikuti posisi terbaru dari objek aslinya.
 
@@ -89,7 +91,7 @@ Dan objek nya juga bisa di pindahkan secara manual dengan cara memasukkan titik 
 
 ![alt text](image-2.png)
 
-### 2. Contoh Penggunaan 
+### Contoh Penggunaan 
 Mengambil contoh titik objek dari bawaan aplikasi.
 
 ![alt text](image-3.png)
