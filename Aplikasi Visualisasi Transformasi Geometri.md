@@ -84,22 +84,22 @@ hr {
 ### 1. Tampilan Awal Aplikasi: 
 Aplikasinya akan menampilkan beberapa tombol dan tabel tabel kartesius yang kosong, untuk memulai aplikasinya bisa menambahkan titik titik secara manual di kolom input di kiri atau bisa memencet 2 opsi contoh objek dari bawaan aplikasinya dan setelah memencet akan menampilkan objek pertama di bagian kanan/kiri dan setelah itu selanjutnya bisa memencet tombol "Lakukan Refleksi Y" untuk menampilkan hasil refleksi objek tadi terhadap sumbu Y.
 Dan objek nya juga bisa di pindahkan secara manual dengan cara memasukkan titik satu persatu atau bisa dengan cara memencet tombol geser di barisan tombol tombol maka objek nya akan bergerak dan setelah itu bisa mengupdate objek hasil refleksinya dengan memencet "Lakukan Refleksi Y" atau "Update Refleksi Y" agar objek hasil refleksi nya mengikuti posisi terbaru dari objek aslinya.
-![image](https://hackmd.io/_uploads/HyWf12HRbx.png)
-![image](https://hackmd.io/_uploads/rJGQk3SCZg.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ### 2. Contoh Penggunaan 
 Mengambil contoh titik objek dari bawaan aplikasi.
-![image](https://hackmd.io/_uploads/By6UJnHRWg.png)
+![alt text](image-3.png)
 
 Cara Mengetahui suatu titik di hasil refleksi terbentuk bisa dengan cara mengarahkan mouse atau mengclick titik yang ingin di ketahui rumus terbentuknya.
-![image](https://hackmd.io/_uploads/BJmnk2BRWe.png)
-![image](https://hackmd.io/_uploads/r1H2J2HC-e.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 Untuk mengetahui seluruh titik titik terbentuk bisa dengan mengclick tombol "Lihat Langkah Perhitungan & Matriks Transformasi" di atas tabel kartesius.
-![image](https://hackmd.io/_uploads/HkNCg3SRZx.png)
-![image](https://hackmd.io/_uploads/rJTCenB0Zx.png)
-![image](https://hackmd.io/_uploads/Hy_1ZhHRZl.png)
-![image](https://hackmd.io/_uploads/BksWZ2SRbg.png)
-![image](https://hackmd.io/_uploads/HJfgWnHCbl.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+![alt text](image-10.png)
 
 
 
