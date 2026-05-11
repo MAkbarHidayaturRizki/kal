@@ -298,8 +298,11 @@ $\quad\quad$
 ---
 
 ### Contoh Output Program Python:
-![image](https://hackmd.io/_uploads/Hy4_jR11Me.png)
-![image](https://hackmd.io/_uploads/SJiOsCyJze.png)
-![image](https://hackmd.io/_uploads/SkbYsCJyGl.png)
+
+![image](![alt text](image-11.png))
+
+![image](![alt text](image-12.png))
+
+![image](![alt text](image-13.png))
 
 <a href="https://drive.google.com/file/d/1LsaL8AHaTn3TXiCp9sLdqHjpiNqUmKp6/view?usp=drive_link">Download Kode Script Python</a>
