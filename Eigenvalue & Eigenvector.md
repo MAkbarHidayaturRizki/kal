@@ -299,6 +299,7 @@ $\quad\quad$
 
 ### Contoh Output Program Python:
 <a href="https://drive.google.com/file/d/1LsaL8AHaTn3TXiCp9sLdqHjpiNqUmKp6/view?usp=drive_link">Download Kode Script Python</a>
+
 ![alt text](image-11.png)
 
 ![alt text](image-12.png)
