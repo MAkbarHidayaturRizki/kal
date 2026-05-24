@@ -1,5 +1,5 @@
 ---
-title: Eigenface Menggunakan Singular Value Decomposition (SVD)
+title: Eigenface (SVD)
 
 ---
 
@@ -12,6 +12,26 @@ Metode ini bekerja dengan mengubah gambar wajah menjadi vector lalu mencari pola
 <a href="https://drive.google.com/drive/folders/1gM5gq5yd2QXxmDMXwEalXzNJq9N0wPBc?usp=drive_link" target="_blank">Download Source Code</a>
 
 Contoh Output:
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+![alt text](eigenface_svd_dashboard.png)
 
 <hr>
 
